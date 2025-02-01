@@ -74,7 +74,7 @@ pip install -r requirements.txt
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/singhlovepreet1/telecom-churn-prediction.git
+   git clone https://github.com/singhlovepreet1/telecom-churn-case-study.git
    ```
 2. Navigate to the project directory:
    ```bash
