@@ -51,7 +51,7 @@ To run the python notebook, first download the datafile from [here](https://driv
 5. **Final Model Selection**
    - Based on performance metrics, computational efficiency, interpretability, and feature importance
 
-6. **Business Insights **
+6. **Business Insights**
    - Suggestions for the telecom industry on which steps they can follow or offers they can provide to customers who are about to churn.
 
 
